@@ -33,5 +33,5 @@ void Menu::quit()
 
 void Menu::result()
 {
-    
+    cout << "Here is your results\n";
 }
