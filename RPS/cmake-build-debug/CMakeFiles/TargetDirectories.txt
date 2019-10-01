@@ -1,0 +1,3 @@
+/Users/admin/CLionProjects/RPS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/admin/CLionProjects/RPS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/CLionProjects/RPS/cmake-build-debug/CMakeFiles/RPS.dir
