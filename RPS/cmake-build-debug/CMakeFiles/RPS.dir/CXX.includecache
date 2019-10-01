@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/admin/CLionProjects/RPS/AI.h
+iostream
+-
+string
+-
+
+/Users/admin/CLionProjects/RPS/DataBase.h
+iostream
+-
+unordered_map
+-
+vector
+-
+
+/Users/admin/CLionProjects/RPS/PlayCenter.cpp
+iostream
+-
+AI.h
+/Users/admin/CLionProjects/RPS/AI.h
+Player.h
+/Users/admin/CLionProjects/RPS/Player.h
+DataBase.h
+/Users/admin/CLionProjects/RPS/DataBase.h
+PlayCenter.h
+/Users/admin/CLionProjects/RPS/PlayCenter.h
+
+/Users/admin/CLionProjects/RPS/PlayCenter.h
+iostream
+-
+string
+-
+
+/Users/admin/CLionProjects/RPS/Player.h
+iostream
+-
+string
+-
+
